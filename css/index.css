@@ -221,7 +221,7 @@ footer>.container>span{
 }
 
 /* TABLET & MOBILE DEVICE */
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 1024px) {
   .burgerIcon {
     display: block;
     width: 35px;
